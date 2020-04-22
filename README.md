@@ -4,20 +4,43 @@
 
 ### 信息收集工具 （Information Gathering）
 #### ........DNS分析 （DNS Analysis）
+##### ................dnsenum
+##### ................dnsrecon
+##### ................fierce
 #### ........IDS/IPS 识别 （IDS/IPS Identification）
+##### ................lbd
+##### ................wafw00f
 #### ........主机识别 （Live Host Identification）
+##### ................arping
+##### ................fping
+##### ................hping3
+##### ................masscan
+##### ................thcping6
 #### ........网络端口扫描 （Network & Port Scanners）
+##### ................nmap
 #### ........OSINT 分析 （OSINT Analysis）
+##### ................maltego
+##### ................theharvester
 #### ........路由扫描 （Route Analysis）
+##### ................netdiscover
+##### ................netmask
 #### ........SMB 分析 （SMB Analysis）
+##### ................enum4linux
+##### ................nbtscan
+##### ................smbmap
 #### ........SMTP 分析 （SMTP Analysis）
+##### ................swaks
 #### ........SNMP 分析 （SNMP Analysis）
+##### ................onesixtyone
+##### ................snmp-check
 #### ........SSL 分析 （SSL Analysis）
+##### ................ssldump
+##### ................sslh
+##### ................sslscan
+##### ................sslyze
+
 ##### ................dmitry
 ##### ................ike-scan
-##### ................maltergo
-##### ................netdiscover
-##### ................nmap
 ##### ................recon-ng
 ##### ................sparta
 
