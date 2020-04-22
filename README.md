@@ -19,7 +19,7 @@
 ##### ................netdiscover
 ##### ................nmap
 ##### ................recon-ng
-##### ................sprta
+##### ................sparta
 
 ### 脆弱性分析 （Vulnerability Analysis）
 ### 网页应用分析 （Web Application Analysis）
