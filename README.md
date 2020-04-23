@@ -3,8 +3,8 @@
 本书的目录结构按照Kali Linux VMWare系统中预安装的工具类别和顺序排列。 
 
 ### 01-信息收集工具 （Information Gathering）
-    - DNS分析 （DNS Analysis）
-      - [x]dnsenum
+- DNS分析 （DNS Analysis）
+  - [x] dnsenum
 ##### ................dnsrecon
 ##### ................fierce
 #### ........IDS/IPS 识别 （IDS/IPS Identification）
