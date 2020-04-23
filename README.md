@@ -86,58 +86,161 @@
 &nbsp;
 ### 05-密码破解 （Password Attacks）
 - **离线破解（Offiline Attacks）**
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
+  - [x] chntpw
+  - [x] hashcat
+  - [x] hashid
+  - [x] hash-identifier
+  - [x] ophcrack-cli
+  - [x] samdump2
 - **在线破解（Online Attacks）**
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
+  - [x] hydra
+  - [x] hydra-gtk
+  - [x] onesixtyone
+  - [x] patator
+  - [x] thc-pptp-bruter
 - **哈希传递攻击工具（Passing the Hash Tools）**
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
+  - [x] mimikatz
+  - [x] pth-curl
+  - [x] pth-net
+  - [x] pth-rpcclient
+  - [x] pth-smbclient
+  - [x] pth-smbget
+  - [x] pth-sqsh
+  - [x] pth-winexe
+  - [x] pth-wmic
+  - [x] pth-wmis
+  - [x] pth-xfreerdp
+  - [x] smbmap
 - **密码字典（Password Profiling & Wordlists）**
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
+  - [x] cewl
+  - [x] crunch
+  - [x] rsmangler
+  - [x] wordlists
 - **其他工具**
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
-  - [x] 
+  - [x] john
+  - [x] medusa
+  - [x] ncrack
+  - [x] ophcrack
 &nbsp;
 ### 06-无线网络攻击 （Wireless Attacks）
+- **802.11无线工具（802.11 Wireless Tools）**
+  - [x] bully
+  - [x] fern wifi cracker
+- **蓝牙工具（Bluetooth Tools）**
+  - [x] spooftooph
+- **其他工具**
+  - [x] aircrack-ng
+  - [x] kisnet
+  - [x] pixiewps
+  - [x] reaver
+  - [x] wifite
 &nbsp;
 ### 07-逆向工程 （Reverse Engineering）
+  - [x] clang
+  - [x] clang++
+  - [x] NASM shell
+  - [x] radare2
 &nbsp;
 ### 08-漏洞利用工具 （Exploitation Tools）
+  - [x] metasploit framework
+  - [x] msf payload creator
+  - [x] searchsploit
+  - [x] social enginerring toolkit
+  - [x] sqlmap
 &nbsp;
 ### 09-嗅探及网络欺骗工具（Sniffing & Spoofing）
+- **网络嗅探（Network Sniffers）**
+  - [x] dnschef
+  - [x] netsniff-ng
+- **网络欺骗工具及MITM（Spoofing and MITM）**
+  - [x] rebind
+  - [x] sslsplit
+  - [x] tcpreplay
+- **其他工具**
+  - [x] ettercap-graphical
+  - [x] macchanger
+  - [x] mitmproxy
+  - [x] responder
+  - [x] wireshark
 &nbsp;
 ### 10-渗透工具 (Post Exploitation)
+- **OS 后门工具（OS Backdoors）**
+  - [x] dbd
+  - [x] powersploit
+  - [x] sbd
+- **隧道及数据渗漏（Tunneling & Exfiltration）**
+  - [x] dns2tcpc
+  - [x] dns2tcpd
+  - [x] exe2hex
+  - [x] iodine
+  - [x] miredo
+  - [x] proxychains
+  - [x] proxytunnel 
+  - [x] ptunnel
+  - [x] pwnat
+  - [x] sslh
+  - [x] stunnel4
+  - [x] udptunnel
+- **网络后门工具（Web Backdoors）**
+  - [x] laudanum
+  - [x] weevely
+- **其他工具**
+  - [x] mimikatz
 &nbsp;
 ### 11-取证工具 （Forensics）
+- **文件雕刻取证工具（Forensic Carving Tools）**
+  - [x] magicrescue
+  - [x] scalpel
+  - [x] scrounge-ntfs
+- **取证图像工具（Forensic Imaging Tools）**
+  - [x] guymager
+- **PDF取证工具（PDF Forensics Tools）**
+  - [x] pdfid
+  - [x] pdf-parser
+  - [x] peepdf
+- **追踪套件（Sleuth Kit Suite）**
+  - [x] autopsy
+  - [x] blkcalc
+  - [x] blkcat
+  - [x] blkls
+  - [x] blkstat
+  - [x] ffind
+  - [x] fls
+  - [x] fsstat
+  - [x] hfind
+  - [x] icat-sleuthkit
+  - [x] ifind
+  - [x] ils-sleuthkit
+  - [x] img_cat
+  - [x] img_stat
+  - [x] istat
+  - [x] jcat
+  - [x] jls
+  - [x] mactime-sleuthkit
+  - [x] mmcat
+  - [x] mmls
+  - [x] mmstat
+  - [x] sigfind
+  - [x] sorter
+  - [x] srch_strings
+  - [x] tsk_comparedir
+  - [x] tsk_gettimes
+  - [x] tsk_loaddb
+  - [x] tsk_recover
+- **其他工具**
+  - [x] binwalk
+  - [x] bulk-extractor
+  - [x] hashdeep
 &nbsp;
 ### 12-报告工具 （Reporting Tools）
+- [x] cutycapt
+- [x] faraday IDE
+- [x] maltego
+- [x] pipal
+- [x] recordmydesktop
 &nbsp;
 ### 13-社交网络工具 （Social Engineering Tools）
+- [x] maltego
+- [x] msf payload creator
+- [x] social engineering toolkit
+
